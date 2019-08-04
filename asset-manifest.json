@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ind-clothing/static/css/main.1ceda8ac.chunk.css",
+    "main.js": "/ind-clothing/static/js/main.b27bebb3.chunk.js",
+    "main.js.map": "/ind-clothing/static/js/main.b27bebb3.chunk.js.map",
+    "runtime~main.js": "/ind-clothing/static/js/runtime~main.c22cefd0.js",
+    "runtime~main.js.map": "/ind-clothing/static/js/runtime~main.c22cefd0.js.map",
+    "static/js/2.e3737ea9.chunk.js": "/ind-clothing/static/js/2.e3737ea9.chunk.js",
+    "static/js/2.e3737ea9.chunk.js.map": "/ind-clothing/static/js/2.e3737ea9.chunk.js.map",
+    "index.html": "/ind-clothing/index.html",
+    "precache-manifest.5c47e91e7eb76fd12ec5039145c0813f.js": "/ind-clothing/precache-manifest.5c47e91e7eb76fd12ec5039145c0813f.js",
+    "service-worker.js": "/ind-clothing/service-worker.js",
+    "static/css/main.1ceda8ac.chunk.css.map": "/ind-clothing/static/css/main.1ceda8ac.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/ind-clothing/static/media/crown.ed28accb.svg"
+  }
+}
